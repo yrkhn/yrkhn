@@ -1,16 +1,27 @@
-## Hi there 👋
+# Yerkhan Altay
 
-<!--
-**yrkhn/yrkhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science · Astana IT University**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек
+
+`C++` `Python` `C#` `Java` `Haskell` `SQL` `OpenGL` `Unity` `Git`
+
+---
+
+### Учебные проекты
+
+| Проект | Стек | Описание |
+|--------|------|----------|
+| Игры | Unity, C# | Несколько игр разных жанров — игровая логика, UI, механики |
+| Компьютерная графика | OpenGL, C++ | Рендеринг 3D-сцен, шейдеры, трансформации |
+| Функциональный проект | Haskell | Работа с типами, рекурсия, чистые функции |
+| ML модели | Python, sklearn | Обучение моделей, анализ датасетов, оценка метрик |
+
+---
+
+### Контакт
+
+📧 ryuuyerkhan@gmail.com
+tg: yrkhninho
